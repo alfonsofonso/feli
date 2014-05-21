@@ -6,6 +6,7 @@
     <ignored path=".idea/workspace.xml" />
     <file path="/mapa.js" changelist="cffc7dd4-741f-45f6-bfdb-b72267b06b09" time="1400667621236" ignored="false" />
     <file path="/Busca.js" changelist="cffc7dd4-741f-45f6-bfdb-b72267b06b09" time="1380528573774" ignored="false" />
+    <file path="/config.xml" changelist="cffc7dd4-741f-45f6-bfdb-b72267b06b09" time="1400690637089" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +50,7 @@
       <file leaf-file-name="config.xml" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/config.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="0" selection-start="239" selection-end="239" vertical-scroll-proportion="0.2802198">
+            <state line="9" column="0" selection-start="241" selection-end="241" vertical-scroll-proportion="0.2802198">
               <folding />
             </state>
           </provider>
@@ -336,7 +337,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/config.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="0" selection-start="239" selection-end="239" vertical-scroll-proportion="0.2802198">
+        <state line="9" column="0" selection-start="241" selection-end="241" vertical-scroll-proportion="0.2802198">
           <folding />
         </state>
       </provider>
